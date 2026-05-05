@@ -1,6 +1,6 @@
 # Earth-Moon Patched-Conic Trajectory Solver
 # Required Functions : kepler_E.m , sv_from_coe.m
-# Analysis.m performs trade study
+
 ## Overview
 This project is a custom MATLAB-based flight dynamics and trajectory optimization tool. It simulates Earth-to-Moon transit missions using a 3D patched-conic approximation. The primary purpose of this tool is to analyze and compare deep space mission architectures—specifically comparing classic Apollo-style Equatorial Low Lunar Orbits (LLO) against modern Artemis/Gateway-style Near Rectilinear Halo Orbits (NRHO).
 
